@@ -14,4 +14,5 @@ Penjelasan Struktur Kode:
 - Menangani error fetch dengan menampilkan pesan error di console.
 
 
-link github Test-Kemampuan-Dasar-Magang-Frontend: 
+link github Test-Kemampuan-Dasar-Magang-Frontend:
+https://github.com/redsihelma/Test-Kemampuan-Dasar-Magang-Frontend.git 
